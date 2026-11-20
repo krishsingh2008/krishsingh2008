@@ -1,3 +1,5 @@
+<p align="center"><img src="krish-jetpack.gif" alt="A stick figure with a jetpack crashes into the name Krish Singh, knocks the K into the floor, pulls it out, puts it back, and flies off" width="100%"></p>
+
 Hey, I'm Krish,
 
 I'm in Mechatronics at the University of Waterloo. I build robots that work with the human body: wearable gloves, tendon-driven hands, and arms you control by moving your own.
